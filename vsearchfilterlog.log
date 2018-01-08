@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'aaaaa'), ('letters', 'aeiou')]) {'a'}|127.0.0.1 {'a'}|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 {'a'}|{'a'}
+ImmutableMultiDict([('phrase', 'hello'), ('letters', 'aeiou')]) {'e', 'o'}|127.0.0.1 {'e', 'o'}|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 {'e', 'o'}|{'e', 'o'}
+ImmutableMultiDict([('phrase', 'hello'), ('letters', 'aeiou')]) {'e', 'o'}|127.0.0.1 {'e', 'o'}|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 {'e', 'o'}|{'e', 'o'}
+ImmutableMultiDict([('phrase', 'qqq'), ('letters', 'aeiou')]) set()|127.0.0.1 set()|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 set()|set()
+ImmutableMultiDict([('phrase', 'qqq'), ('letters', 'aeiou')]) set()|127.0.0.1 set()|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 set()|set()
+ImmutableMultiDict([('phrase', 'efgjqwdoqpd'), ('letters', 'aeiou')]) {'e', 'o'}|127.0.0.1 {'e', 'o'}|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36 {'e', 'o'}|{'e', 'o'}

@@ -1,0 +1,8 @@
+<Request 'http://localhost:5000/search4' [POST]> {'e', 'o'}
+<Request 'http://localhost:5000/search4' [POST]> {'a'}
+<Request 'http://localhost:5000/search4' [POST]> {'a'}
+<Request 'http://localhost:5000/search4' [POST]> {'a'}
+<Request 'http://localhost:5000/search4' [POST]> {'e', 'o'}
+<Request 'http://localhost:5000/search4' [POST]> set()
+<Request 'http://localhost:5000/search4' [POST]> set()
+<Request 'http://localhost:5000/search4' [POST]> {'e', 'o'}
